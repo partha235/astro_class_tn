@@ -53,5 +53,14 @@ Super Moon => 7% larger <br>
 
 10) No gravity in space but how they form?
 
+11) how black hole detected?
+
+12) how elliptical?
+
+13) how to observe?
+
+14) moon formation 3.8GY G?
+
+15) Trojan asteroids are in Position L4 & L5 . so there is no chance to attract by the planet. They are orbiting the sun at the same speed of the Jupiter?
 
 Note: Commerce students; interest  in black hole, space; difficult to read but interest in observe, help to read student try; little boring;
