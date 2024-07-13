@@ -64,3 +64,12 @@ Super Moon => 7% larger <br>
 15) Trojan asteroids are in Position L4 & L5 . so there is no chance to attract by the planet. They are orbiting the sun at the same speed of the Jupiter?
 
 Note: Commerce students; interest  in black hole, space; difficult to read but interest in observe, help to read student try; little boring;
+
+
+
+Why does the sun shine? 
+
+Most people are probably aware that the sun is essentially a nuclear fusion reactor that burns hydrogen gas to release the heat and sun light that sustain all life on earth; but fewer people know that it wouldn’t
+shine at all were it not for a remarkable quantum property that allows particles to “walk through walls.” The sun, and indeed all stars in the universe,is able to emit these vast amounts of energy because nuclei of hydrogen
+atoms, each composed of just a single positively charged particle called a proton, are able to fuse, and as a result to release energy in the form of the electromagnetic radiation that we call sunlight. Two hydrogen nuclei have to be able to get very close in order to fuse; but the closer they get, the stronger the repulsive force between them becomes, as each carries a positive electric charge and “like” charges repel. In fact, for them
+to get close enough to fuse, the particles have to be able to get through the subatomic equivalent of a brick wall: an apparently impenetrable energy barrier. Classical physics3—built upon Isaac Newton’s laws of motion, mechanics and gravity, which describe very well the everyday world of balls, springs, steam engines (and even planets) would predict that this shouldn’t happen; particles should not be able to pass through walls and therefore the sun shouldn’t shine.
