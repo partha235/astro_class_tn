@@ -1,7 +1,7 @@
 To calculate the mass of an object, you'll need to know either:
 
 1. **Weight and Gravitational Acceleration**:  
-   If you know the weight of the object (the force due to gravity), you can calculate mass as:
+   If you know the weight of the object (the force due to gravity), you can calculate mass as:   
    $
    m = \frac{W}{g}
    $
