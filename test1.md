@@ -1,91 +1,14 @@
-# Chapter - 1
+# Solar Family
+* Solar system => Solar => Solis (latin word sun).
+* Milky way galaxy => a barres spiral galaxy with 2 major arm and 2 minor arm. 
+* We are in small, partial arm called orion arm / orion spur between Sagittarius & Perseus arm. 
+* 2 to 4 light year in diameter. 
+* Orbit around center of our galaxy about $8,28,000 km/h $ which takes 230 million years for one orbit (galactic    year).  
+* 27,000 light years away from galactic center.
+* According to the IAU, a planet must do three things:
 
-### ✅ **Choose the Correct Answer (8 Questions)**
-
-
-**2. நிலக்கடலான (terrestrial) கிரகங்களில் ஒன்று எது?**
-A) வியாழன்
-B) நெப்ட்யூன்
-C) பூமி
-D) யுரேனஸ்
-**✔️ Answer: C) பூமி**
-
----
-
-**3. வாயுகிரகங்கள் (Gas giants) எவை?**
-A) புதன், சுக்கிரன்
-B) பூமி, செவ்வாய்
-C) வியாழன், சனி
-D) சூரியன், சந்திரன்
-**✔️ Answer: C) வியாழன், சனி**
-
----
-
-**4. சூரியக் குடும்பம் சுமார் எப்போது உருவானது?**
-A) 4.6 லட்சம் ஆண்டுகள் முன்பு
-B) 4.6 கோடி ஆண்டுகள் முன்பு
-C) 4.6 பில்லியன் ஆண்டுகள் முன்பு
-D) 46 ஆயிரம் ஆண்டுகள் முன்பு
-**✔️ Answer: C) 4.6 பில்லியன் ஆண்டுகள் முன்பு**
-
----
-
-**5. சூரியக் குடும்பத்தின் எல்லையில் அமைந்த பகுதியில் எது உள்ளது?**
-A) கிரக வளிமண்டலம்
-B) ஆஸ்டெராய்டு பெல்ட்
-C) ஊர்ட் மேகம் (Oort Cloud)
-D) வியாழன் வளையம்
-**✔️ Answer: C) ஊர்ட் மேகம்**
-
----
-
-**6. ஆஸ்டெராய்டு பெல்ட் (Asteroid Belt) எங்கே உள்ளது?**
-A) பூமி மற்றும் செவ்வாய் இடையே
-B) செவ்வாய் மற்றும் வியாழன் இடையே
-C) சனி மற்றும் யுரேனஸ் இடையே
-D) நெப்ட்யூன் மற்றும் புளூட்டோ இடையே
-**✔️ Answer: B) செவ்வாய் மற்றும் வியாழன் இடையே**
-
----
-
-**7. சூரியக் குடும்பத்தில் எத்தனை முக்கிய கிரகங்கள் உள்ளன?**
-A) 7
-B) 8
-C) 9
-D) 10
-**✔️ Answer: B) 8**
-
----
-
-
-
-### ✍️ **Short Answer Questions (2 Questions)**
-
-**1. சூரியக் குடும்பத்தில் உள்ள கிரகங்களை இரண்டு பிரிவுகளாக வகைப்படுத்தி எழுதுக.**
-**Answer:**
-
-* நிலக்கடலான கிரகங்கள் (terrestrial): புதன், சுக்கிரன், பூமி, செவ்வாய்
-* வாயுகிரகங்கள் (gas giants): வியாழன், சனி, யுரேனஸ், நெப்ட்யூன்
-
----
-
-**2. சூரியக் குடும்பத்தை நாம் ஏன் கற்க வேண்டும்?**
-**Answer:**
-சூரியக் குடும்பம் புவியின் தோற்றம், காலநிலை, இயற்கை மாற்றங்கள், விண்வெளி ஆராய்ச்சி போன்றவற்றைப் புரிந்துகொள்ள உதவுகிறது. இது அறிவியல், கணிதம், புவியியல் போன்ற பாடங்களுக்கு அடித்தளமாகும்.
-
----
-
-### ✏️ **Fill in the Blanks (3 Questions)**
-
-**1. சூரியக் குடும்பம் சுமார் \_\_\_\_\_\_\_\_\_\_\_\_\_\_ ஆண்டுகளுக்கு முன்பு உருவானது.**
-**✔️ Answer: 4.6 பில்லியன்**
-
----
-
-**2. சூரியன், சூரியக் குடும்பத்தின் \_\_\_\_\_\_\_\_\_\_\_\_\_\_ ஆகும்.**
-**✔️ Answer: மையம்**
-
----
-
-**3. செவ்வாய் மற்றும் வியாழன் இடையே உள்ள பகுதியில் \_\_\_\_\_\_\_\_\_\_\_\_\_\_ மண்டலம் உள்ளது.**
-**✔️ Answer: ஆஸ்டெராய்டு (Asteroid)**
+    1. Orbit its host star (In our solar system that’s the Sun).
+    2. Be mostly round.
+    3. Be big enough that its gravity cleared away any other objects of similar size near its orbit around the Sun.
+* Habitability Zone (Goldilocks Zone) => water stays as liquid in planet => 0.95AU to 1.37AU in our system. 
+* Earth lies in the zone; Venus lies in inner edge but as hot planet water gets evaporated; Mars lies in outer edge as cool planet no place for liquid water. 
