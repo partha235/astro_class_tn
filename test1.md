@@ -14,3 +14,4 @@
 * Earth lies in the zone; Venus lies in inner edge but as hot planet water gets evaporated; Mars lies in outer edge as cool planet and have thin atmosphere no place for liquid water. 
 * Habitable zone not fixed; expand or compress with properties of star.
 * In about 1–1.5 billion years, Earth may become too hot to support complex life and Mars become habitable.
+### <span style="color:orange">Elliptical Orbit</span>

@@ -3,12 +3,14 @@ from math import sqrt,pi
 
 G = 6.67430e-11 # gravitational constant (G)
 
+#  to find volume of a planet
 def planet_vol(name:str,R):
     volume=4*pi*(R**3)//3
     print("{} has volume of {}".format(name,volume))
 
 # planet_vol("earth",6.371e+6)
 
+# to find mass density and volume of a planet
 def mdv(name:str,density=None,volume=None,mass=None):
     if density is None:
         find="density"
@@ -28,12 +30,15 @@ def mdv(name:str,density=None,volume=None,mass=None):
 # mdv("ob2",mass=50,density=65)
 # mdv("ob3",density=65,volume=300)
 
+
+# to find gravity force between two object
 def newton_gravity(ob1:str,ob2:str,m1,m2,r):
     F = G * (m1 * m2) / r**2
     print("gravity between {} and {} is {} ".format(ob1,ob2,F))
 
 # newton_gravity("h","e",51,65,500)
 
+# to find escape velocity of the planet
 def escape_v(name:str,mass,r):
     ev = sqrt(2*G*mass/r)
     print("escape velocity of {} is {} m/s".format(name,ev))
